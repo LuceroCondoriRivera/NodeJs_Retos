@@ -10,21 +10,6 @@ Bienvenidas y bienvenidos a este repositorio de ejercicios prácticos con **Node
 - Prácticas de estructuración de proyectos con el patrón **MVC**
 - Implementación de servidores TCP y manejo de archivos
 
-## 📂 Estructura del Repositorio
-
-```plaintext
-📦 nodejs-exercises
-├── 📁 bash-scripting      # Scripts en Bash
-├── 📁 file-management     # Manejo de archivos con Node.js
-├── 📁 json-handling       # Lectura y escritura de archivos JSON
-├── 📁 tcp-servers        # Creación de servidores TCP
-├── 📁 modularization     # Ejercicios sobre modularización
-├── 📁 mvc-pattern        # Implementaciones del patrón MVC
-├── 📁 miscellaneous      # Otros ejercicios interesantes
-├── package.json         # Archivo de dependencias y configuración
-└── README.md            # Documentación del repositorio
-```
-
 ## 🚀 Requisitos
 
 Para ejecutar los ejercicios necesitas tener instalado:
